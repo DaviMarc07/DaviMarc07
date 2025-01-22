@@ -16,7 +16,7 @@
 
 
 ### 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
+- [LinkedIn](https://www.linkedin.com/in/davi-marcus-ferreira-martins-a097b8348/)
 - [Portfólio](https://seuportfolio.com)
 - 📧 Email: davimarcus022@gmail.com
 
