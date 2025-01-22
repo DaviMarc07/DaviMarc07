@@ -1,16 +1,23 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-<!--
-**DaviMarc07/DaviMarc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá! 👋 Eu sou Davi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Ciência de Dados.
+- 🔭 Explorando o mundo do **Python** e **Machine Learning**.
+- 💡 Sempre aprendendo e inovando!
+
+### 💻 Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+
+### 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
+- [Portfólio](https://seuportfolio.com)
+- 📧 Email: davimarcus022@gmail.com
+
+
